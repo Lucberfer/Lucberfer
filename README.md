@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in backend, frontend and develop of movile apps
+- 👀 I’m interested in backend, frontend and develop of mobile apps
 - 🌱 I’m currently learning java, kotlin, python, .NET, SQL, XML and interfaces
 - 💞️ I’m looking to collaborate on new proyects
 - 📫 How to reach me by emal and linkedin below
